@@ -4,8 +4,6 @@
 
 **Pixel-powered plugins, themes & TUIs for [Omarchy](https://omarchy.org). Handmade in the woods.**
 
-Serious software, ridiculous packaging. The tools are real; the sasquatch is the joke.
-
 ### In the workshop
 
 | | |
