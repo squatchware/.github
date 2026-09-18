@@ -18,4 +18,4 @@ Nothing's public yet. Sightings will be confirmed at [squatchware.dev](https://s
 
 ---
 
-<sub>Made by [Jim Christian](https://jimchristian.net) · [Brand kit](https://squatchware.dev/brand/) · Sightings confirmed on Arch</sub>
+<sub>Made by [Jim Christian](https://jimchristian.net) · Sightings confirmed on Arch</sub>
