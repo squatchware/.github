@@ -4,15 +4,25 @@
 
 **Pixel-powered plugins, themes & TUIs for [Omarchy](https://omarchy.org). Handmade in the woods.**
 
+### Confirmed sightings
+
+| | |
+|---|---|
+| **[Squatchware](https://github.com/squatchware/omarchy-squatchware-theme)** | A pixel-art Omarchy theme: night forest, parchment and campfire gold, with a themed lock screen, boot splash, boot menu and screensaver. |
+| **[Squatchware Light](https://github.com/squatchware/omarchy-squatchware-light-theme)** | The daylight version: parchment, forest ink and campfire orange. |
+
+```sh
+omarchy theme install https://github.com/squatchware/omarchy-squatchware-theme
+```
+
 ### In the workshop
 
 | | |
 |---|---|
 | **squatch** | A pixel-sasquatch launcher for Claude Code: fuzzy project picker, resume any session, tmux-aware. |
 | **Omasquatch** | A pixel-art mission-control office where sasquatches show you what your AI agents are up to. |
-| **HotSquatch theme** | An Omarchy desktop theme in forest green, campfire orange and Guybrush gold. |
 
-Nothing's public yet. Sightings will be confirmed at [squatchware.dev](https://squatchware.dev).
+More sightings at [squatchware.dev](https://squatchware.dev).
 
 ---
 
