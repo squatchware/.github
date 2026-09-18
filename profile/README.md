@@ -2,7 +2,7 @@
   <img src="banner.png" alt="SQUATCHWARE: a pixel-art sasquatch waving in a night forest" width="100%">
 </p>
 
-**Pixel-powered plugins, themes & TUIs for [Omarchy](https://omarchy.org). Handmade in the woods.**
+**Pixel-powered apps, tools & themes. Handmade in the woods.**
 
 ### Released
 
