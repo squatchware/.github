@@ -4,7 +4,7 @@
 
 **Pixel-powered plugins, themes & TUIs for [Omarchy](https://omarchy.org). Handmade in the woods.**
 
-### Confirmed sightings
+### Released
 
 | | |
 |---|---|
@@ -22,7 +22,7 @@ omarchy theme install https://github.com/squatchware/omarchy-squatchware-theme
 | **squatch** | A pixel-sasquatch launcher for Claude Code: fuzzy project picker, resume any session, tmux-aware. |
 | **Omasquatch** | A pixel-art mission-control office where sasquatches show you what your AI agents are up to. |
 
-More sightings at [squatchware.dev](https://squatchware.dev).
+More at [squatchware.dev](https://squatchware.dev).
 
 ---
 
