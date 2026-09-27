@@ -32,17 +32,17 @@ Six Omarchy themes for the machines that raised us. Keep an eye out for the squa
 
 ### Movie Night
 
-Six Omarchy themes for the films we rewound until the tape wore thin, each in dark and light. Original AI-generated
+Six Omarchy themes for the films we rewound until the tape wore thin. Original AI-generated
 wallpapers, no film frames or logos. [See them all](https://squatchware.dev/movies/).
 
 | | |
 |---|---|
-| **[Clockstrike 88](https://github.com/squatchware/omarchy-clockstrike-88-theme)** · [light](https://github.com/squatchware/omarchy-clockstrike-88-light-theme) | Midnight asphalt, plasma orange and clock-face gold. |
-| **[Crossed Streams](https://github.com/squatchware/omarchy-crossed-streams-theme)** · [light](https://github.com/squatchware/omarchy-crossed-streams-light-theme) | Ectoplasm green and proton orange. |
-| **[Digital Frontier](https://github.com/squatchware/omarchy-digital-frontier-theme)** · [light](https://github.com/squatchware/omarchy-digital-frontier-light-theme) | Void black and grid cyan. |
-| **[Nostromo](https://github.com/squatchware/omarchy-nostromo-theme)** · [light](https://github.com/squatchware/omarchy-nostromo-light-theme) | Graphite hull, phosphor consoles and bone panels. |
-| **[Power Maze](https://github.com/squatchware/omarchy-power-maze-theme)** · [light](https://github.com/squatchware/omarchy-power-maze-light-theme) | Maze blue, power gold and chase red. |
-| **[Tears in Rain](https://github.com/squatchware/omarchy-tears-in-rain-theme)** · [light](https://github.com/squatchware/omarchy-tears-in-rain-light-theme) | Rain black and neon. |
+| **[Clockstrike 88](https://github.com/squatchware/omarchy-clockstrike-88-theme)** | Midnight asphalt, plasma orange and clock-face gold. |
+| **[Crossed Streams](https://github.com/squatchware/omarchy-crossed-streams-theme)** | Ectoplasm green and proton orange. |
+| **[Digital Frontier](https://github.com/squatchware/omarchy-digital-frontier-theme)** | Void black and grid cyan. |
+| **[Nostromo](https://github.com/squatchware/omarchy-nostromo-theme)** | Graphite hull, phosphor consoles and bone panels. |
+| **[Power Maze](https://github.com/squatchware/omarchy-power-maze-theme)** | Maze blue, power gold and chase red. |
+| **[Tears in Rain](https://github.com/squatchware/omarchy-tears-in-rain-theme)** | Rain black and neon. |
 
 ### In the workshop
 
