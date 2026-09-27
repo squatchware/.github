@@ -30,6 +30,20 @@ Six Omarchy themes for the machines that raised us, each with a squatch hiding i
 | **[Phosphor Green](https://github.com/squatchware/omarchy-phosphor-green-theme)** | A P1 green monochrome monitor, scanlines and all. |
 | **[Phosphor Amber](https://github.com/squatchware/omarchy-phosphor-amber-theme)** | The warm one, easy on the eyes after midnight. |
 
+### Movie Night
+
+Six Omarchy themes for the films we rewound until the tape wore thin, each in dark and light. Original AI-generated
+wallpapers, no film frames or logos. [See them all](https://squatchware.dev/movies/).
+
+| | |
+|---|---|
+| **[Clockstrike 88](https://github.com/squatchware/omarchy-clockstrike-88-theme)** · [light](https://github.com/squatchware/omarchy-clockstrike-88-light-theme) | Midnight asphalt, plasma orange and clock-face gold. |
+| **[Crossed Streams](https://github.com/squatchware/omarchy-crossed-streams-theme)** · [light](https://github.com/squatchware/omarchy-crossed-streams-light-theme) | Ectoplasm green and proton orange. |
+| **[Digital Frontier](https://github.com/squatchware/omarchy-digital-frontier-theme)** · [light](https://github.com/squatchware/omarchy-digital-frontier-light-theme) | Void black and grid cyan. |
+| **[Nostromo](https://github.com/squatchware/omarchy-nostromo-theme)** · [light](https://github.com/squatchware/omarchy-nostromo-light-theme) | Graphite hull, phosphor consoles and bone panels. |
+| **[Power Maze](https://github.com/squatchware/omarchy-power-maze-theme)** · [light](https://github.com/squatchware/omarchy-power-maze-light-theme) | Maze blue, power gold and chase red. |
+| **[Tears in Rain](https://github.com/squatchware/omarchy-tears-in-rain-theme)** · [light](https://github.com/squatchware/omarchy-tears-in-rain-light-theme) | Rain black and neon. |
+
 ### In the workshop
 
 | | |
@@ -37,7 +51,7 @@ Six Omarchy themes for the machines that raised us, each with a squatch hiding i
 | **squatch** | A pixel-sasquatch launcher for Claude Code: fuzzy project picker, resume any session, tmux-aware. |
 | **Omasquatch** | A pixel-art mission-control office where sasquatches show you what your AI agents are up to. |
 
-More at [squatchware.dev](https://squatchware.dev).
+More at [squatchware.dev](https://squatchware.dev), and every theme in one place at [squatchware.dev/themes](https://squatchware.dev/themes/).
 
 ---
 
