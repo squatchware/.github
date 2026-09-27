@@ -23,8 +23,8 @@ Six Omarchy themes for the machines that raised us. Keep an eye out for the squa
 
 | | |
 |---|---|
-| **[Commodore 64](https://github.com/squatchware/omarchy-c64-theme)** | READY. Light blue on blue and a squatch on tape. |
-| **[Apple II](https://github.com/squatchware/omarchy-apple-2-theme)** | Green phosphor text over lo-res colour. |
+| **[Commodore 64](https://github.com/squatchware/omarchy-c64-theme)** | READY. The sixteen VIC-II colours, dithered into a dusk. |
+| **[Apple II](https://github.com/squatchware/omarchy-apple-2-theme)** | Hi-res line art in the six Apple II colours. |
 | **[Teletext](https://github.com/squatchware/omarchy-teletext-theme)** | Page 100: eight colours and chunky mosaic graphics. |
 | **[Nixie](https://github.com/squatchware/omarchy-nixie-theme)** | Neon-orange cathodes behind glass, brass and bronze. |
 | **[Phosphor Green](https://github.com/squatchware/omarchy-phosphor-green-theme)** | A P1 green monochrome monitor, scanlines and all. |
