@@ -19,7 +19,7 @@ omarchy theme install https://github.com/squatchware/omarchy-squatchware-theme
 
 ### The Retro Pack
 
-Six Omarchy themes for the machines that raised us, each with a squatch hiding in it. [See them all](https://squatchware.dev/retro/).
+Six Omarchy themes for the machines that raised us. Keep an eye out for the squatch. [See them all](https://squatchware.dev/retro/).
 
 | | |
 |---|---|
